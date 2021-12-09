@@ -1,0 +1,22 @@
+{
+  "name": "holores-invite-button",
+  "version": "1.0.0",
+  "description": "just a webhook for server invites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoloRes/invite-button-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoloRes/invite-button-bot/issues"
+  },
+  "homepage": "https://github.com/HoloRes/invite-button-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+    "tokens": {
+        "bot":""
+    },
+    "discord": {
+        "intents": [
+            "GUILDS",
+            "GUILD_INTEGRATIONS",
+            "GUILD_WEBHOOKS",
+            "GUILD_MESSAGES",
+            "GUILD_MESSAGE_REACTIONS"
+        ],
+        "partials": [
+            "CHANNEL",
+            "GUILD_MEMBER",
+            "MESSAGE",
+            "REACTION",
+            "USER"
+        ]
+    },
+    "others": {
+        "prefixes": [ "." ],
+        "devs": [ "732233113815613571" ]
+    }
+}
